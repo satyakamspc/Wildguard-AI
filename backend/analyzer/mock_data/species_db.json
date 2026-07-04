@@ -1,0 +1,37 @@
+{
+  "Apis mellifera": {
+    "common_name": "Honey Bee",
+    "activity_pattern": "Diurnal",
+    "habitat": "Meadows, gardens, agricultural areas, and open woodlands.",
+    "general_behavior": "Generally docile and non-aggressive unless their hive is threatened or they are physically stepped on/handled.",
+    "fun_fact": "Honey bees communicate the distance, direction, and quality of food sources by performing a specialized 'waggle dance'."
+  },
+  "Crotalus oreganus": {
+    "common_name": "Western Diamondback Rattlesnake",
+    "activity_pattern": "Crepuscular",
+    "habitat": "Arid deserts, rocky hillsides, scrublands, and dry pine forests.",
+    "general_behavior": "Shy and prefers to retreat, but will rattle loudly as a warning and strike defensively if cornered, startled, or stepped on.",
+    "fun_fact": "A rattlesnake's rattle is made of hollow interlocking segments of keratin, which is the same material as human fingernails."
+  },
+  "Trimeresurus sabahi fucatus": {
+    "common_name": "Banded Pit Viper",
+    "activity_pattern": "Crepuscular",
+    "habitat": "Tropical wet rainforests, bamboo thickets, and low shrubs in mountainous areas.",
+    "general_behavior": "Arboreal hunter that spends daytime coiled in low branches. Highly venomous and strikes quickly if approached too closely.",
+    "fun_fact": "Pit vipers possess heat-sensitive pits between their eyes and nostrils that allow them to 'see' the thermal signature of warm-blooded prey in pitch blackness."
+  },
+  "Latrodectus mactans": {
+    "common_name": "Black Widow Spider",
+    "activity_pattern": "Nocturnal",
+    "habitat": "Dark, sheltered areas such as woodpiles, stone walls, barns, garages, and basements.",
+    "general_behavior": "Extremely reclusive and non-aggressive. They spend their time hanging upside down in webs and bite humans only in self-defense when squeezed.",
+    "fun_fact": "Female black widows are famously known for occasionally consuming the male spider after mating, giving them their name."
+  },
+  "Ursus arctos horribilis": {
+    "common_name": "Grizzly Bear",
+    "activity_pattern": "Crepuscular",
+    "habitat": "Temperate forests, alpine meadows, river valleys, and tundra.",
+    "general_behavior": "Solitary and territorial. They are highly protective of their cubs and food sources and may charge if startled at close range.",
+    "fun_fact": "Despite their massive weight of up to 800 pounds, grizzly bears can sprint at speeds reaching 35 miles per hour."
+  }
+}

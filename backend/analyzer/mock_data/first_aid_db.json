@@ -1,0 +1,109 @@
+{
+  "Apis mellifera": {
+    "risk_rating": "Low",
+    "primary_hazard": "Venomous sting causing localized pain, swelling, and potential systemic anaphylaxis in allergic individuals.",
+    "disclaimer": "This first-aid guide is for informational purposes only and does not replace professional medical advice.",
+    "immediate_steps": [
+      "CALL EMERGENCY SERVICES (e.g., 911/112) IMMEDIATELY if the victim shows signs of anaphylaxis (difficulty breathing, swelling of throat/face, hives, dizziness).",
+      "Remove the stinger immediately. Scraping it off flatly with a fingernail, credit card, or blunt knife is preferred.",
+      "Wash the sting area thoroughly with clean water and mild soap to prevent infection.",
+      "Apply a cold pack or ice wrapped in a thin cloth to the area for 10-15 minutes to reduce localized swelling and numb pain."
+    ],
+    "critical_warnings": [
+      "DO NOT use tweezers or your fingers to pinch and squeeze the stinger, as this may inject more venom from the venom sac.",
+      "DO NOT scratch the sting site, as this will worsen localized irritation and may introduce bacterial infections."
+    ],
+    "paramedic_checklist": [
+      "Note the exact time of the sting.",
+      "Monitor for progressive allergic reactions, airway constriction, or hives.",
+      "Confirm if the patient has a known bee allergy or carries an Epinephrine Auto-Injector (EpiPen)."
+    ]
+  },
+  "Crotalus oreganus": {
+    "risk_rating": "Critical",
+    "primary_hazard": "Venomous hemotoxic and tissue-destroying bite. Left untreated, it can be lethal or lead to limb loss.",
+    "disclaimer": "All snakebites must be treated as medical emergencies. Seek professional hospital care immediately.",
+    "immediate_steps": [
+      "CALL EMERGENCY SERVICES (e.g., 911/112) IMMEDIATELY.",
+      "Keep the victim calm, warm, and as still as possible. Movement speeds up the circulation of venom.",
+      "Keep the bitten limb positioned at or slightly below heart level to slow venom progression.",
+      "Remove all rings, watches, bracelets, or tight clothing from the bitten limb immediately before swelling begins.",
+      "Wash the bite site gently with soap and water if available, and cover it with a loose, clean, dry bandage."
+    ],
+    "critical_warnings": [
+      "DO NOT use a tourniquet or tie any restrictive bands, as trapping the venom in a small area increases severe tissue damage.",
+      "DO NOT cut the wound or attempt to suck out the venom by mouth or mechanical suction devices.",
+      "DO NOT apply ice or submerge the wound in water.",
+      "DO NOT give the victim pain medication, stimulants, alcohol, or caffeine, which can elevate heart rate."
+    ],
+    "paramedic_checklist": [
+      "Note the exact time of the bite.",
+      "Track and mark the borders of swelling and discoloration with a pen every 15 minutes to monitor venom activity.",
+      "Do not try to capture or kill the snake. If safe, a quick photo can help the medical team identify the species."
+    ]
+  },
+  "Trimeresurus sabahi fucatus": {
+    "risk_rating": "Critical",
+    "primary_hazard": "Venomous hematoxic bite causing severe swelling, pain, internal bleeding, and tissue necrosis.",
+    "disclaimer": "All pit viper bites are severe medical emergencies. Immediate antivenom administration is required.",
+    "immediate_steps": [
+      "CALL EMERGENCY SERVICES (e.g., 911/112) IMMEDIATELY.",
+      "Keep the bitten limb completely immobilized and positioned below heart level to slow venom circulation.",
+      "Do NOT move the patient unless absolutely necessary. Keep them resting quietly.",
+      "Remove tight bands, rings, and clothing immediately as rapid swelling is expected.",
+      "Gently clean the bite area and apply a clean, dry dressing."
+    ],
+    "critical_warnings": [
+      "DO NOT cut the bite site or attempt to suck the venom out by mouth.",
+      "DO NOT apply ice, electricity, or tourniquets, which can cause severe localized tissue necrosis.",
+      "DO NOT administer aspirin or other blood-thinning painkillers."
+    ],
+    "paramedic_checklist": [
+      "Note the exact time of the bite and onset of systemic bleeding signs.",
+      "Prepare for rapid IV fluid access and monitor coagulation profiles.",
+      "Assess and document progressive swelling borders every 15 minutes."
+    ]
+  },
+  "Latrodectus mactans": {
+    "risk_rating": "High",
+    "primary_hazard": "Neurotoxic venomous bite causing severe localized pain, muscle cramping, abdominal rigidity, and hypertension.",
+    "disclaimer": "Bites from black widows are medical emergencies requiring close observation and potential antivenom therapy.",
+    "immediate_steps": [
+      "CALL EMERGENCY SERVICES (e.g., 911/112) IMMEDIATELY.",
+      "Wash the spider bite area thoroughly with soap and water.",
+      "Apply a cold damp cloth or ice pack wrapped in a washcloth to the bite site to relieve swelling and throbbing.",
+      "Keep the bitten limb elevated to reduce localized pressure.",
+      "Observe the patient closely for spreading pain, chest/abdominal tightness, or muscle spasms."
+    ],
+    "critical_warnings": [
+      "DO NOT use a tourniquet or squeeze/cut the bite area.",
+      "DO NOT apply heat packs, which can accelerate the spread of neurotoxins in the bloodstream."
+    ],
+    "paramedic_checklist": [
+      "Note the time of the bite and onset of systemic symptoms.",
+      "Monitor blood pressure closely, as black widow venom can cause significant hypertensive episodes.",
+      "Assess for muscle rigidity, particularly in the abdomen, which can mimic appendicitis."
+    ]
+  },
+  "Ursus arctos horribilis": {
+    "risk_rating": "Critical",
+    "primary_hazard": "Physical trauma, severe lacerations, puncture wounds, crushing force, and heavy bleeding.",
+    "disclaimer": "Bear maulings cause severe multi-system trauma. Immediate surgical intervention is critical.",
+    "immediate_steps": [
+      "CALL EMERGENCY SERVICES (e.g., 911/112) IMMEDIATELY.",
+      "Ensure the scene is safe. Do not approach the victim if the bear is still active or visible.",
+      "Apply firm, direct pressure to any actively bleeding wounds using clean cloth, sterile dressings, or hands.",
+      "Elevate bleeding extremities above heart level if no fractures are suspected.",
+      "Keep the victim lying down, warm (cover with blankets/jackets), and still to prevent shock."
+    ],
+    "critical_warnings": [
+      "DO NOT wash out deep puncture wounds or internal tissues in the field, as this can introduce deep-seated pathogens.",
+      "DO NOT move the victim if spinal, neck, or head injuries are suspected, unless they are in immediate danger of another attack."
+    ],
+    "paramedic_checklist": [
+      "Assess ABCs (Airway, Breathing, Circulation) immediately.",
+      "Estimate total blood loss and note locations of deep puncture wounds or crushing fractures.",
+      "Immobilize the cervical spine if structural impact is suspected."
+    ]
+  }
+}

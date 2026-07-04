@@ -1,0 +1,32 @@
+{
+  "Apis mellifera": {
+    "native_continents": ["Europe", "Africa", "Asia", "North America", "South America", "Oceania"],
+    "native_countries": ["United States", "Canada", "Germany", "France", "United Kingdom", "India", "Australia", "South Africa", "Brazil"],
+    "latitude_range": [-60.0, 75.0],
+    "longitude_range": [-180.0, 180.0]
+  },
+  "Crotalus oreganus": {
+    "native_continents": ["North America"],
+    "native_countries": ["United States", "Canada", "Mexico"],
+    "latitude_range": [20.0, 52.0],
+    "longitude_range": [-128.0, -100.0]
+  },
+  "Trimeresurus sabahi fucatus": {
+    "native_continents": ["Asia"],
+    "native_countries": ["Thailand", "Malaysia", "Myanmar"],
+    "latitude_range": [1.0, 15.0],
+    "longitude_range": [95.0, 105.0]
+  },
+  "Latrodectus mactans": {
+    "native_continents": ["North America"],
+    "native_countries": ["United States", "Mexico"],
+    "latitude_range": [15.0, 48.0],
+    "longitude_range": [-125.0, -65.0]
+  },
+  "Ursus arctos horribilis": {
+    "native_continents": ["North America"],
+    "native_countries": ["United States", "Canada"],
+    "latitude_range": [43.0, 75.0],
+    "longitude_range": [-168.0, -110.0]
+  }
+}

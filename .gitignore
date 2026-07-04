@@ -1,0 +1,42 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+
+# Virtual environments
+.venv/
+
+# Environment variables
+
+.env
+!.env.example
+# Django
+
+db.sqlite3
+media/
+staticfiles/
+
+# Logs
+*.log
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==========================
+# React / Node
+# ==========================
+node_modules/
+dist/
+build/
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+
+# macOS
+.DS_Store

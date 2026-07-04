@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "category": "reptiles",
+    "name": "Banded Pit Viper",
+    "filename": "Trimeresurus_sabahi_fucatus_Banded_pit_viper_-_Takua_Pa_District_Phang-nga_Province_46710893582.jpg",
+    "expected_family": "Viperidae",
+    "expected_genus": "Trimeresurus"
+  },
+  {
+    "id": 2,
+    "category": "reptiles",
+    "name": "Western Diamondback Rattlesnake",
+    "filename": "western_diamondback_rattlesnake.jpg",
+    "expected_family": "Viperidae",
+    "expected_genus": "Crotalus"
+  },
+  {
+    "id": 3,
+    "category": "reptiles",
+    "name": "Eastern Box Turtle",
+    "filename": "eastern_box_turtle.jpg",
+    "expected_family": "Emydidae",
+    "expected_genus": "Terrapene"
+  },
+  {
+    "id": 4,
+    "category": "reptiles",
+    "name": "Common Garter Snake",
+    "filename": "common_garter_snake.jpg",
+    "expected_family": "Colubridae",
+    "expected_genus": "Thamnophis"
+  },
+  {
+    "id": 5,
+    "category": "reptiles",
+    "name": "Gila Monster",
+    "filename": "gila_monster.jpg",
+    "expected_family": "Helodermatidae",
+    "expected_genus": "Heloderma"
+  },
+  {
+    "id": 6,
+    "category": "mammals",
+    "name": "Grizzly Bear",
+    "filename": "grizzly_bear.jpg",
+    "expected_family": "Ursidae",
+    "expected_genus": "Ursus"
+  },
+  {
+    "id": 7,
+    "category": "mammals",
+    "name": "Black Bear",
+    "filename": "black_bear.jpg",
+    "expected_family": "Ursidae",
+    "expected_genus": "Ursus"
+  },
+  {
+    "id": 8,
+    "category": "mammals",
+    "name": "Raccoon",
+    "filename": "raccoon.jpg",
+    "expected_family": "Procyonidae",
+    "expected_genus": "Procyon"
+  },
+  {
+    "id": 9,
+    "category": "mammals",
+    "name": "Grey Squirrel",
+    "filename": "grey_squirrel.jpg",
+    "expected_family": "Sciuridae",
+    "expected_genus": "Sciurus"
+  },
+  {
+    "id": 10,
+    "category": "mammals",
+    "name": "Cougar / Mountain Lion",
+    "filename": "mountain_lion.jpg",
+    "expected_family": "Felidae",
+    "expected_genus": "Puma"
+  },
+  {
+    "id": 11,
+    "category": "birds",
+    "name": "Bald Eagle",
+    "filename": "bald_eagle.jpg",
+    "expected_family": "Accipitridae",
+    "expected_genus": "Haliaeetus"
+  },
+  {
+    "id": 12,
+    "category": "birds",
+    "name": "Rock Pigeon",
+    "filename": "pigeon.jpg",
+    "expected_family": "Columbidae",
+    "expected_genus": "Columba"
+  },
+  {
+    "id": 13,
+    "category": "birds",
+    "name": "Red-tailed Hawk",
+    "filename": "hawk.jpg",
+    "expected_family": "Accipitridae",
+    "expected_genus": "Buteo"
+  },
+  {
+    "id": 14,
+    "category": "birds",
+    "name": "Great Horned Owl",
+    "filename": "owl.jpg",
+    "expected_family": "Strigidae",
+    "expected_genus": "Bubo"
+  },
+  {
+    "id": 15,
+    "category": "birds",
+    "name": "Ruby-throated Hummingbird",
+    "filename": "hummingbird.jpg",
+    "expected_family": "Trochilidae",
+    "expected_genus": "Archilochus"
+  },
+  {
+    "id": 16,
+    "category": "insects",
+    "name": "Honey Bee",
+    "filename": "honey_bee.jpg",
+    "expected_family": "Apidae",
+    "expected_genus": "Apis"
+  },
+  {
+    "id": 17,
+    "category": "insects",
+    "name": "Common Bumblebee",
+    "filename": "bumblebee.jpg",
+    "expected_family": "Apidae",
+    "expected_genus": "Bombus"
+  },
+  {
+    "id": 18,
+    "category": "insects",
+    "name": "Yellowjacket Wasp",
+    "filename": "yellowjacket.jpg",
+    "expected_family": "Vespidae",
+    "expected_genus": "Vespula"
+  },
+  {
+    "id": 19,
+    "category": "insects",
+    "name": "House Mosquito",
+    "filename": "mosquito.jpg",
+    "expected_family": "Culicidae",
+    "expected_genus": "Culex"
+  },
+  {
+    "id": 20,
+    "category": "insects",
+    "name": "Carpenter Ant",
+    "filename": "ant.jpg",
+    "expected_family": "Formicidae",
+    "expected_genus": "Camponotus"
+  },
+  {
+    "id": 21,
+    "category": "amphibians_arachnids",
+    "name": "Black Widow Spider",
+    "filename": "black_widow_spider.jpg",
+    "expected_family": "Theridiidae",
+    "expected_genus": "Latrodectus"
+  },
+  {
+    "id": 22,
+    "category": "amphibians_arachnids",
+    "name": "American Bullfrog",
+    "filename": "bullfrog.jpg",
+    "expected_family": "Ranidae",
+    "expected_genus": "Lithobates"
+  },
+  {
+    "id": 23,
+    "category": "amphibians_arachnids",
+    "name": "American Toad",
+    "filename": "toad.jpg",
+    "expected_family": "Bufonidae",
+    "expected_genus": "Anaxyrus"
+  },
+  {
+    "id": 24,
+    "category": "amphibians_arachnids",
+    "name": "Striped Bark Scorpion",
+    "filename": "scorpion.jpg",
+    "expected_family": "Buthidae",
+    "expected_genus": "Centruroides"
+  },
+  {
+    "id": 25,
+    "category": "amphibians_arachnids",
+    "name": "Spotted Salamander",
+    "filename": "salamander.jpg",
+    "expected_family": "Ambystomatidae",
+    "expected_genus": "Ambystoma"
+  },
+  {
+    "id": 26,
+    "category": "edge_cases",
+    "name": "Blurry Snake",
+    "filename": "blurry_snake.jpg",
+    "quality_passes": false,
+    "expected_issue": "blurry"
+  },
+  {
+    "id": 27,
+    "category": "edge_cases",
+    "name": "Dark Forest Path",
+    "filename": "dark_forest_path.jpg",
+    "quality_passes": false,
+    "expected_issue": "too_dark"
+  },
+  {
+    "id": 28,
+    "category": "edge_cases",
+    "name": "Plastic Toy Snake",
+    "filename": "toy_snake.jpg",
+    "uncertain": true
+  },
+  {
+    "id": 29,
+    "category": "edge_cases",
+    "name": "Statue of Bear",
+    "filename": "statue_bear.jpg",
+    "uncertain": true
+  },
+  {
+    "id": 30,
+    "category": "edge_cases",
+    "name": "Empty Forest Trail",
+    "filename": "empty_trail.jpg",
+    "quality_passes": false,
+    "expected_issue": "no_animal_visible"
+  }
+]
